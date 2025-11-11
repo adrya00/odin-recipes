@@ -11,4 +11,4 @@ This project is to practice all the HTML knowledge I have learned thus far. This
 
    <br>
    <br>
-   Github website: (https://adrya00.github.io/odin-recipes/index.htmlhttps)
+   Github website: (https://adrya00.github.io/odin-recipes/index.html)
